@@ -18,5 +18,5 @@ All sites are deployed using [Vercel](https://vercel.com) - [Dashboard – Verce
 
 ## Documentation
 
-[Vercel](https://vercel.com/docs) | [Angular](https://angular.io/docs) | [Eleventy](https://www.11ty.dev/docs/) | [Gatsby](https://www.gatsbyjs.com/docs/) | [Hexo](https://hexo.io/docs/index.html) | [Next.js](https://nextjs.org/docs/getting-started) | [Nuxt.js](https://nuxtjs.org/docs/2.x/get-started/installation) | [Vue.js](https://vuejs.org/v2/guide/)
+[Vercel](https://vercel.com/docs) | [Angular](https://angular.io/docs) | [Eleventy](https://www.11ty.dev/docs/) | [Gatsby](https://www.gatsbyjs.com/docs/) | [Hexo](https://hexo.io/docs/index.html) | [Next.js](https://nextjs.org/docs/getting-started) | [Nextra](https://nextra.vercel.app/) | [Nuxt.js](https://nuxtjs.org/docs/2.x/get-started/installation) | [Vue.js](https://vuejs.org/v2/guide/)
 
