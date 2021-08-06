@@ -1,0 +1,24 @@
+[submodule "nextjs-example"]
+	path = nextjs-example
+	url = git@github.com:jimbrig/nextjs-example.git
+[submodule "vue-example"]
+	path = vue-example
+	url = git@github.com:jimbrig/vue-example.git
+[submodule "eleventy-example"]
+	path = eleventy-example
+	url = git@github.com:jimbrig/eleventy-example.git
+[submodule "hexo-example"]
+	path = hexo-example
+	url = git@github.com:jimbrig/hexo-example.git
+[submodule "angular-example"]
+	path = angular-example
+	url = git@github.com:jimbrig/angular-example.git
+[submodule "nextjs-portfolio-example"]
+	path = nextjs-portfolio-example
+	url = git@github.com:jimbrig/nextjs-portfolio-example.git
+[submodule "nuxtjs-example"]
+	path = nuxtjs-example
+	url = git@github.com:jimbrig/nuxtjs-example.git
+[submodule "gatsby-example"]
+	path = gatsby-example
+	url = git@github.com:jimbrig/gatsby-example.git
