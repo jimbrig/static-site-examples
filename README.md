@@ -1,7 +1,9 @@
 # Example Static Sites
 > A monorepo housing various static site generators and front-end frameworks.
 
-Work in Progress Personal Site: <https://www.jimbrig.com/>
+All sites are deployed using [Vercel](https://vercel.com) - [Dashboard – Vercel](https://vercel.com/jimbrig).
+
+*Work in Progress Personal Site: <https://www.jimbrig.com/>*
 
 ## Contents
 
@@ -14,6 +16,7 @@ Work in Progress Personal Site: <https://www.jimbrig.com/>
 - [Nuxt.js (nuxtjs-example)](./nuxtjs-example) | [Deployed Site](https://nuxtjs-example-blue.vercel.app/) | [Github Repo](https://github.com/jimbrig/nuxtjs-example)
 - [Vue.js (vue-example)](./vue-example) | [Deployed Site](https://vue-example-indol.vercel.app/) | [Github Repo](https://github.com/jimbrig/vue-example)
 
-## Reference
+## Documentation
 
-- [Dashboard – Vercel](https://vercel.com/jimbrig)
+[Vercel](https://vercel.com/docs) | [Angular](https://angular.io/docs) | [Eleventy](https://www.11ty.dev/docs/) | [Gatsby](https://www.gatsbyjs.com/docs/) | [Hexo](https://hexo.io/docs/index.html) | [Next.js](https://nextjs.org/docs/getting-started) | [Nuxt.js](https://nuxtjs.org/docs/2.x/get-started/installation) | [Vue.js](https://vuejs.org/v2/guide/)
+
