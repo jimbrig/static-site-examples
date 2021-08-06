@@ -7,14 +7,14 @@ All sites are deployed using [Vercel](https://vercel.com) - [Dashboard – Verce
 
 ## Contents
 
-- [Angular (angular-example)](./angular-example) | [Deployed Site](https://angular-example-psi.vercel.app/) | [Github Repo](https://github.com/jimbrig/angular-example)
-- [Eleventy (eleventy-example)](./eleventy-example) | [Deployed Site](https://eleventy-example-nine.vercel.app/) | [Github Repo](https://github.com/jimbrig/eleventy-example)
-- [Gatsby (gatsby-example)](./gatsby-example) | [Deployed Site](https://gatsby-example-eta.vercel.app/) | [Github Repo](https://github.com/jimbrig/gatsby-example)
-- [Hexo (hexo-example)](./hexo-example) | [Deployed Site](https://hexo-example-six.vercel.app/) | [Github Repo](https://github.com/jimbrig/hexo-example)
-- [Next.js (nextjs-example)](./nextjs-example) | [Deployed Site](https://nextjs-psi-gray-40.vercel.app/) | [Github Repo](https://github.com/jimbrig/nextjs-example)
-- [Next.js Portfolio (nextjs-portfolio-example)](./nextjs-portfolio-example) | [Deployed Site](https://portfolio-nine-gold-73.vercel.app/) | [Github Repo](https://github.com/jimbrig/nextjs-portfolio-example)
-- [Nuxt.js (nuxtjs-example)](./nuxtjs-example) | [Deployed Site](https://nuxtjs-example-blue.vercel.app/) | [Github Repo](https://github.com/jimbrig/nuxtjs-example)
-- [Vue.js (vue-example)](./vue-example) | [Deployed Site](https://vue-example-indol.vercel.app/) | [Github Repo](https://github.com/jimbrig/vue-example)
+- Angular - [Deployed Site](https://angular-example-psi.vercel.app/) | [Github Repo](https://github.com/jimbrig/angular-example) | <https://angular.io>
+- Eleventy - [Deployed Site](https://eleventy-example-nine.vercel.app/) | [Github Repo](https://github.com/jimbrig/eleventy-example) | <https://11ty.dev>
+- Gatsby - [Deployed Site](https://gatsby-example-eta.vercel.app/) | [Github Repo](https://github.com/jimbrig/gatsby-example) | <https://gatsbyjs.com>
+- Hexo - [Deployed Site](https://hexo-example-six.vercel.app/) | [Github Repo](https://github.com/jimbrig/hexo-example) | <https://hexo.io>
+- Next.js - [Deployed Site](https://nextjs-psi-gray-40.vercel.app/) | [Github Repo](https://github.com/jimbrig/nextjs-example) | <https://nextjs.org>
+- Next.js (Portfolio) - [Deployed Site](https://portfolio-nine-gold-73.vercel.app/) | [Github Repo](https://github.com/jimbrig/nextjs-portfolio-example) | <https://nextra.vercel.app>
+- Nuxt.js - [Deployed Site](https://nuxtjs-example-blue.vercel.app/) | [Github Repo](https://github.com/jimbrig/nuxtjs-example) | <https://nuxtjs.org>
+- Vue.js - [Deployed Site](https://vue-example-indol.vercel.app/) | [Github Repo](https://github.com/jimbrig/vue-example) | <https://vuejs.org>
 
 ## Documentation
 
